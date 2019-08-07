@@ -1,2 +1,38 @@
 {
+  "data": [
+    {
+      "section_title": "Chemotherapy",
+      "list": [
+        {
+          "id": "1",
+          "name": "Xeloda (Docetaxel)"
+        },
+        {
+          "id": "2",
+          "name": "Tarceva (Erlotinib)"
+        },
+        {
+          "name": "5-FU (Fluorouracil)",
+          "id": "3"
+        },
+        {
+          "name": "Gemzar (Gemcitabine)",
+          "id": "4"
+        }
+      ]
+    },
+    {
+      "section_title": "Targeted Therapy",
+      "list": [
+        {
+          "name": "Vitrakvi (Larotrectinib)",
+          "id": "1"
+        },
+        {
+          "name": "Erlotinib",
+          "id": "2"
+        }
+      ]
+    }
+  ]
 }
